@@ -1,0 +1,6 @@
+framework module Pods_assign5 {
+  umbrella header "Pods-assign5-umbrella.h"
+
+  export *
+  module * { export * }
+}
