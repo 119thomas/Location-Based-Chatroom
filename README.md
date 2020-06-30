@@ -6,8 +6,8 @@ Make sure to enable location in Xcode! (While in Simulator: Features -> Location
 
 <h1>Create a new Chatroom</h1>
 
-![chatroom](https://github.com/119thomas/Location-Based-Chatroom/blob/master/screenshots/chatroom.png){:height="700px" width="400px"}
+![chatroom|512x397, 20%](https://github.com/119thomas/Location-Based-Chatroom/blob/master/screenshots/chatroom.png)
 
 <h1>Send messages with others</h1>
 
-![sideMenu](https://github.com/119thomas/Location-Based-Chatroom/blob/master/screenshots/sideMenu.png){:height="700px" width="400px"}
+![sideMenu|512x397, 20%](https://github.com/119thomas/Location-Based-Chatroom/blob/master/screenshots/sideMenu.png)
