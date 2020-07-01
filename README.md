@@ -10,6 +10,8 @@ Make a new chatroom for studying or just hanging out. Set the radius as large as
 <img src="https://github.com/119thomas/Location-Based-Chatroom/blob/master/screenshots/sideMenu.png" width=35% height=35%>                                 
 
 <h1>Send messages with others</h1>
-After you join a chatroom, start connecting with others. Share about how you think you did on an exam or maybe just have a relaxing conversation with others.
+After you join a chatroom, start connecting with others. Share about how you think you did on an exam or maybe just have a relaxing conversation with people.
 
 <img src="https://github.com/119thomas/Location-Based-Chatroom/blob/master/screenshots/chatroom.png" width=35% height=35%>
+
+All messages were stored using Firebase and chatnames/profile settings were kept with Swift's Core Data. 
